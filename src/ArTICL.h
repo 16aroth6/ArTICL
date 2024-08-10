@@ -1,5 +1,5 @@
-#ifndef ARTCIL_H
-#define ARTCIL_H
+#ifndef ARTICL_H
+#define ARTICL_H
 
 #include "CBL2.h"
 #include "TICL.h"
